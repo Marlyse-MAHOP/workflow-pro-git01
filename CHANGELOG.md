@@ -1,0 +1,1 @@
+"# Journal des changements\n- Ajout de app.md\n- Correction de bugfix.txt\n- Rapport test-report.md\n- Fusion complète du workflow" 
