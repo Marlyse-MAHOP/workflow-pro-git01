@@ -1,0 +1,2 @@
+echo "Bug : affichage incorrect du message d’accueil. 
+Solution : correction du format de texte." 
